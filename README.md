@@ -21,4 +21,4 @@ Ele permite que o usuário acesse links como instagram, facebook e outras redes 
 ## 💻 Como usar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+https://mateusbsilva01.github.io/meu-primeiro-repository/
