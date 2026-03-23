@@ -10,7 +10,7 @@ Ele permite que o usuário acesse links como instagram, facebook e outras redes 
 - HTML
 - CSS
 - PHP
-- JavaScript (se usar)
+- JavaScript 
 
 ## ⚙️ Funcionalidades
 - ✅ Cadastro de usuários  
