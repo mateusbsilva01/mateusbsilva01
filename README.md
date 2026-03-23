@@ -3,8 +3,8 @@
 Breve descrição do projeto. Explique em 1 ou 2 linhas o que ele faz.
 
 ## 📌 Sobre
-Este projeto foi desenvolvido para [explique o objetivo].  
-Ele permite que o usuário [função principal do sistema].
+Este projeto foi desenvolvido para [Apresentar minha vida a outras pessoas].  
+Ele permite que o usuário [acesse links como instagram, facebook e outras redes social].
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML
